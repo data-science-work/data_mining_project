@@ -1,0 +1,1274 @@
+
+
+
+
+
+Death of a Gentleman Tickets, Multiple Dates | Eventbrite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Invalid quantity.  Please enter a quantity of 1 or more.
+The quantity you chose exceeds the quantity available.
+Please enter your name.
+Please enter an email address.
+Please enter a valid email address.
+Please enter your message or comments.
+Please enter the code as shown on the image.
+Please select the date you would like to attend.
+Please enter an email address.
+Please enter a valid email address in the To: field.
+Please enter a subject for your message.
+Please enter a message.
+You can only send this invitations to 10 email addresses at a time.
+$$$$ is not a properly formatted colour.  Please use the format #RRGGBB for all colours.
+Please limit your message to $$$$ characters. There are currently ££££.
+$$$$ is not a valid email address.
+Please enter a promotional code.
+N/A
+Sold Out
+
+    Unavailable
+    
+
+Please enter a password with at least 8 characters.
+You have exceeded the time limit and your reservation has been released.
+    The purpose of this time limit is to ensure that registration is available to as many people as possible.  We apologise for the inconvenience.
+This option is not available anymore. Please choose a different option.
+Please read and accept the waiver.
+All fields marked with * are required.
+Please double check your email address.  The email address format does not appear valid.
+Please double-check your email address. Your emails do not match.
+$$$$ requires a number between ££££ and §§§§
+US Zipcodes need to be 5 digits.
+Post code may contain no more than 9 letter or number characters.
+Please double check your website URL.
+All fields marked with * are required.
+Your card expiration date is in the past.
+Your card CSC needs to be 4 digits.
+Please confirm your order:$$$$You have selected to Pay by Cheque.Click OK to confirm your order.
+Please confirm your order:$$$$You have selected to Pay at the Door.Click OK to confirm your order.
+Please confirm your order: $$$$You have selected to Pay upon Receiving an Invoice.Click OK to confirm your order.
+Your card CSC needs to be 3 digits.
+Sofort is only available in Germany and Austria.
+Boleto Bancario is only available in Brazil.
+PagoFacil is only available in Argentina.
+Rapipago is only available in Argentina.
+Please enter a valid IBAN number.
+You need to accept to charge your bank account.
+Your billing zip code needs to be 5 digits.
+Please double check your CEP info.  The CEP format should be something like 12345-678.
+Please double check your tax identifier.
+There was a problem saving your address.
+There was a problem saving your card info.
+There was a problem saving your personal information.
+Please select the date you would like to attend.
+McAfee Secure sites help keep you safe from identity theft, card fraud, spyware, spam, viruses and online scams.
+Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.
+Unknown card type.
+No card number provided.
+card number is in invalid format.
+Wrong card type or card number is invalid.
+card number has an inappropriate number of digits.
+Please enter numbers here.
+Please enter an integer value.
+Numbers must be less or equal to $$$$
+All the required fields have not been filled out.  Click OK to proceed without all the required information, or click Cancel to finish entering the missing data.
+Job titles must be less than 50 characters.
+Please enter a donation amount.
+Please select an attendee for donation.
+There is currently an issue with card submission on Safari with iOS7.  Please try again with a different browser or device.
+Sorry, invalid event registration form.
+Sorry, invalid event or database error.
+Sorry, quantity must be a positive integer.
+Sorry, you did not select a valid ticket.
+Sorry, invalid event organiser email address.
+Your order was cancelled.
+Thank You. Your order has been successfully completed. Your name and email address have been added to the list of event attendees.
+Sorry, that option is sold out.
+Sorry, that option is no longer available.
+Sorry, you entered an invalid quantity. Please enter a quantity of 1 or more next to the type or types of tickets you would like to purchase.
+Sorry, you did not select any tickets to purchase. Please enter a quantity of 1 or more next to the type or types of tickets you would like to purchase.
+
+    Sorry, there are no tickets left for this event.
+The tickets, ticket quantity or date and time you've requested are no longer available, due to previous sales. Please choose a different date, time or number of tickets and place your order again.
+Sorry, one or more of the tickets you requested are no longer available for purchase.
+Sorry, you need to select the date you want to attend.
+Sorry, the promotional code you entered is not valid yet.
+Sorry, the promotional code you entered has expired.
+Sorry, the promotional code you entered is not valid.
+Your session has expired.  Try ordering again.
+Sorry, your requested ticket quantity exceeds the number provided by your promotional code.
+Sorry, you need to enable javascript to place an order.How do I enable JavaScript on my computer?
+Sorry, the payment type chosen is invalid for this event.
+
+    Sorry, there is only 1 ticket left for this event.
+
+
+We're sorry, this invitation is invalid.
+We're sorry, this invitation has already been used.
+We're sorry, you already have an order being processed for this event. Please wait a few minutes and try again.
+We're sorry, there is a problem with your invitation. Please try again.
+Invalid quantity of tickets selected.
+Invalid donation amount.
+Sorry, the promotional code you entered has been claimed.
+The payment was cancelled.
+The payment was declined by the bank.
+The payment failed.
+The payment expired.
+Sorry, this team is full. Please join a different team.
+Sorry, the tickets you've selected are no longer available.
+We couldn't process your order because you have this event open on multiple tabs in your browser. Please try again with only one browser tab open.
+Based on the quantity selected we are unable to seat your group together. Please try a smaller quantity.
+Your browser does not support picking your own seat. Please select a quantity and the best available seats will be assigned to you.
+Sorry, we can't complete your order in preview. Please make your event live to complete your order.
+Group registration has been disabled for this event.
+Sorry, you cannot reserve seats when your event is in draft mode.
+Sorry, the payment type chosen is invalid for this event.
+Sorry, your billing address was not saved properly, please try again.
+Sorry, we experienced an internal error, please try again.
+The captcha you entered is invalid. Please try again.
+Invalid card selected. You have been logged out.
+Sorry, your team selection was not valid.
+Sorry, the payment type chosen is invalid for this event.
+Sorry, your billing address was not saved properly, please try again.
+Sorry, we experienced an internal error, please try again.
+Please double check your email address.  The email address format does not appear valid.
+County
+Postcode
+County
+Postal Code
+County
+State/Territory
+County
+County
+
+
+Skip Main Navigation
+
+
+
+
+
+Eventbrite
+
+
+
+
+
+
+Search menu
+
+
+
+Search for events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Browse Events
+                
+
+
+Help 
+
+
+
+                                    How it works
+                                    
+
+
+                                    What does it cost to create an event?
+                                    
+
+
+                                    Where are my tickets?
+                                    
+
+
+                                    How to contact the event organiser
+                                    
+
+
+
+                                Help Centre
+                            
+
+
+
+
+
+
+
+Menu
+
+
+
+
+Help
+
+Sign up
+Log in
+
+Create Event
+
+
+
+
+Sign up
+Log in
+
+Create Event
+
+
+
+
+
+Page Content
+
+
+ This event has ended
+        
+
+
+
+
+Event Ended
+
+
+
+
+Death of a Gentleman
+
+
+
+
+View Details
+
+
+
+View Details
+
+
+
+
+
+
+
+                    Events you might like:
+                
+
+
+
+
+
+
+
+
+£42.83 - £116.75
+
+
+
+
+
+        
+                    Sat, 22 Apr
+                    08:00
+        
+        
+    
+            
+
+                Jersey Sport Foundation Conference 2017
+            
+
+
+                Radisson Blu Waterfront Hotel, Jersey, Saint Helier
+            
+
+
+
+
+#SportsFitness
+#Conference
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£16.52
+
+
+
+
+
+        
+                    Mon, 8 May
+                    18:00
+        
+        
+    
+            
+
+                DDMIX Jersey MAXIT
+            
+
+
+                Royal Jersey Showground
+            
+
+
+
+
+#SportsFitness
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£208.19 - £311.99
+
+
+
+
+
+        
+                    Sat, 9 Sep
+                    09:30
+        
+        
+    
+            
+
+                Breca Jersey
+            
+
+
+                Jersey
+            
+
+
+
+
+#SportsFitness
+#Race
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£7 - £20
+
+
+
+
+
+        
+                    Sat, 15 Apr
+                    15:00
+        
+        
+    
+            
+
+                Jersey Reds vs Richmond
+            
+
+
+                Jersey Reds, St Peter
+            
+
+
+
+
+#SportsFitness
+#Game
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£5.90 - £90.86
+
+
+
+
+
+        
+                    Sat, 8 Jul
+                    10:00
+        
+        
+    
+            
+
+                Just4Keepers CI Weekend Summer Camp
+            
+
+
+                Haute Vallee School, St Helier
+            
+
+
+
+
+#SportsFitness
+#Attraction
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£27.14 - £53.69
+
+
+
+
+
+        
+                    Thu, 31 Aug
+                    10:00
+        
+        
+    
+            
+
+                AUGUST - AFC Bournemouth Soccer School with St Clements Sports Club (Age 7-13)
+            
+
+
+                St Clements Sports Club, Jersey
+            
+
+
+
+
+#SportsFitness
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£16.52
+
+
+
+
+
+        
+                    Sun, 30 Apr
+                    19:00
+        
+        
+    
+            
+
+                HARD RIDDIMS - 29.04.17 - HEIST + PLEASURE plus support
+            
+
+
+                The Fermain Tavern - Home of Guernsey music, Guernsey
+            
+
+
+
+
+#Music
+#Party
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£85 - £1,020
+
+
+
+
+
+        
+                    Fri, 28 Apr
+                    19:00
+        
+        
+    
+            
+
+                IoD Jersey Director of the Year Awards 2017
+            
+
+
+                Hotel de France, St Helier
+            
+
+
+
+
+#Business
+#Gala
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£6.96 - £13.33
+
+
+
+
+
+        
+                    Fri, 21 Apr
+                    22:30
+        
+        
+    
+            
+
+                HOOKED 02 - HOLY GOOF + Local Support
+            
+
+
+                Havana Nightclub
+            
+
+
+
+
+#Music
+#Performance
+
+
+
+
+Share this event
+
+
+
+
+
+
+
+
+
+
+
+Save This Event
+
+Log in or sign up for Eventbrite to save events you're interested in.
+
+
+                Sign Up
+            
+
+Already have an account? Log in
+
+
+
+Event Saved
+
+
+
+
+
+
+
+
+
+
+None
+
+
+
+
+
+
+
+
+Death of a Gentleman
+
+
+                                        Jersey Cricket Board
+                                    
+
+
+
+St Helier, Jersey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Available Dates
+        
+            No tickets available for upcoming dates
+        
+
+
+Ticket Information
+
+
+
+
+
+
+        Ticket Type
+
+Sales End
+
+    Price
+
+Fee
+Quantity
+
+
+
+        General Admission (no reserved seating)
+
+    
+
+            30 min before event starts
+        
+
+
+            
+       £10.00
+
+    
+
+            
+        £0.00
+
+    
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Register
+
+
+
+
+
+
+
+
+
+
+
+When purchasing tickets to, or registering for this event, we provide the information entered to the event organiser so they can manage the event.  If you do not want the event organiser to have this information, please do not proceed with your purchase or registration.  Please review our Privacy Policy for more information.
+
+
+
+
+
+
+            Order Now
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Share Death of a Gentleman
+
+
+                Share
+            
+
+
+
+                Tweet
+            
+
+
+
+
+
+
+
+                        Event Details
+                
+
+
+The biggest scandal in sport?
+The Jersey Cricket Board is delighted to bring to Jersey the cricket film that everyone is talking about.  Death of a Gentleman is a story about greed, power, the endless pursuit of more and the precious things that are lost along the way. 
+A hard-hitting documentary for cricket fans and non-fans alike.  Journalists Sam Collins and Jarrod Kimber set off on a journey to follow a hunch that the 140-year old game of Test Cricket is under threat of extinction, only to stumble on something more sinister than they could ever have imagined.  During their thrilling three-year journey they criss-cross the globe from London to Australia, from India to Dubai and back again, during which they meet players, the game's administrators, fans and controversial cricket financiers, resulting in a film that is about much more than cricket.  This is a film about passion, about money, about power and standing up for what you care about before it is too late.
+Duration: 99 minutes
+Certificate: 12A
+Starring: Giles Clarke, N Srinivasan, Lalit Modi, Michael Holding, Kevin Pietersen, Chris Gayle, Jonathan Agnew, Mark Nicholas, Ed Cowan and many more
+Directors: Sam Collins, Jarrod Kimber, Johnny Blank
+You must book tickets online in advance (£10 per person including booking fee) and print off your ticket and bring it with you on the evening.  
+Doors open at 6.30pm.
+Contact nikki.holmes@jerseycricketboard.co.uk for more information.
+ 
+FAQs
+ 
+Are there ID requirements or an age limit to enter the event?
+Children under 12 must be accompanied by an adult (the film has a 12A certification).
+ 
+What can/can't I bring to the event?
+You are welcome to bring cinema snacks and drinks (non-alcoholic only) if you wish.
+ 
+Is my registration/ticket transferrable?
+Yes.
+ 
+Do I have to bring my printed ticket to the event?
+Yes - otherwise you will have to pay again (cash only).
+ 
+The name on the registration/ticket doesn't match the attendee. Is that okay?
+Yes.
+ 
+Where can I contact the organiser with any questions?
+Contact nikki.holmes@jerseycricketboard.co.uk for any other information or call 01534 449759.
+ 
+
+
+
+                Do you have questions about Death of a Gentleman? 
+                    
+                    Contact Jersey Cricket Board
+                
+
+
+
+
+
+
+
+
+                                        When & Where
+                                    
+
+
+
+
+
+Don Theatre
+                Fort Regent 
+                JE2 4UX St Helier
+                Jersey
+
+
+
+
+
+Organiser
+
+
+Jersey Cricket Board
+
+
+
+ 
+                Contact the Organiser
+            
+
+
+
+
+                        View organiser profile
+                    
+
+
+
+                            cricketinjersey
+                        
+
+ 
+ 
+ 
+
+Death of a Gentleman
+
+
+
+Things to do in St Helier
+
+
+
+
+Screening
+
+
+
+
+Sports & Fitness
+
+
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+                    Contact Organiser
+                
+
+
+
+
+
+
+                    Your message has been sent.
+                
+
+
+
+
+
+
+
+
+
+
+                        Your Name
+                    
+
+
+
+
+
+
+                        Email Address
+                    
+
+
+
+
+
+
+                        Message
+                    
+
+
+
+
+
+
+
+                            Enter the code as shown below:
+                        
+
+
+
+
+
+
+
+
+
+                            Your email will only be seen by the event organiser.
+                        
+
+Find out more about how your privacy is protected.
+
+
+
+
+
+
+
+
+
+                        Send message
+                    
+
+                        Please wait...
+                    
+
+
+                    Cancel
+                
+
+
+
+
+
+                    Close
+                
+
+
+
+
+
+
+
+
+
+
+          Use Eventbrite for event management and online registration
+
+
+                    ©2017 Eventbrite
+
+
+About
+Terms
+Privacy
+Help Centre
+Report This Event
+Cookie Policy
+
+
+
+
+            Already registered?
+            Get your tickets
+
+                Questions?
+                    
+                    Contact the organiser
+                
+
+
+
+
+
+
+
+Please log in or sign up
+
+
+In order to purchase these tickets in installments, you'll need an Eventbrite account. Log in or sign up for a free account to continue.
+
+
+Log in
+Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
