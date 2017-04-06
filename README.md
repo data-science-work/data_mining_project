@@ -1,4 +1,12 @@
 # Web Scrapping Tool For Data Mining
+<!-- MarkdownTOC -->
+
+- What it does?
+- What you need to run the app?
+- Instructions for how to setup running environment.
+- HAPPY ANALYZING!!!!
+
+<!-- /MarkdownTOC -->
 
 ### What it does?
 
