@@ -23,7 +23,7 @@ base_url = 'https://www.gigablast.com/search?c=main&index=search&sc=1&hacr=1'
 # Building Gigablast Paramaters
 for topics in words:
     term = topics.replace(',', ' ')
-    my_params = {'userid': '113', 'code': '359492133', 'format': 'xml',
+    my_params = {'userid': '', 'code': '', 'format': 'xml',
                  'q': term, 'n': '20', 'dr': '1', 'filetype': 'html',
                  'pss': '10', 'ddu': '1', 'sortby': '0', 'qlang': 'en'}
 

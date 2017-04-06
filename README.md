@@ -1,27 +1,27 @@
-# MSDS5163 Final Project
-## Instructions to run the application
+# Web Scrapping Tool For Data Mining
 
-<sub>Author: **_Gilberto Diaz_**</sub>
+### What it does?
 
-This code attached to the email was built utilizing Jupyter environment. After exporting the code to a .py file, there are few steps to actually run the application successfully.
+The application searches the Gigablast search engine based on search terms from a `csv` file. After the search is performed, the app creates `txt` files to allow them to be imported for data mining analysis.
+
+### What you need to run the app?
+
+In order to run the app you need to create a Gigablast account. You can do so at [Gigablast]('http://gigablast.com/'). It is a $5.oo fee. Gigablast charges $0.99 per 1000 queries. After you create the account, you need to set your `userid` and your `code` in the `my_params` variable inside `text_mining.py`. You will also need Python3 installed in your computer. You can visit the [Python]('www.python.org') website for instructions on how to install Python.
 
 ### Instructions for how to setup running environment.
 
-The following instructions are for Mac users. Slight modifications to the commands for Windows users are needed. Please search the Internet to modify these commands if you are a Windows user.
+Once you have Python3 install in your computer, and Python3 is in your global environment; instructions on how to make Python3 global in your environment [here]('https://github.com/pyenv/pyenv#basic-github-checkout'), you can clone the repo to your computer.
 
-1. Open the terminal and run the following commands:
-    * `brew install python3`
-      * With this installation `pip3` will get installed as well. Mac has `Python2` installed by default and `pip` is the command to install modules in `Python2`. `Python3` will use `pip3` to install modules on `Python3`.
-    * `sudo -H pip3 install bs4`
-    * `sudo -H pip3 install requests`
-    * `sudo -H pip3 install lxml`
-1. Clone the repository and `cd` to the folder.
-1. You can open the `.csv` and change the words for search or... run it with the default words.
-1. Before you run the script, open the finder window to see the execution of the script as all the `.txt` files are created or since you are in the current directory, run the following command:
-    * `ls` and watch the execution.
-1. Run the folling command:
-    * `python3 text_mining.py`
-1. You sould see a `.txt` file containing the `xml` content of your search.
-1. Now you can bring that `.txt` file to RStudio for further analysis.
+`$ git clone https://github.com/diazgilberto/data_mining_project.git`
+
+After cloning the repo, open your terminal, `cd` to `data_mining_project`, and open the `query.csv`. Modify the file with the terms you want to search, save and close the file. On your terminal run the following command...
+
+`python3 text_mining.py`
+
+or
+
+`python text_mining.py`
+
+it depends on how you setup python3 in your global environment. Shortly after you start running the app, you will see status messages in the terminal. You will also notice that new `.txt` files are getting created in the root of `data_mining_project`. After the search is finished, your files a ready to performed data mining analysis.
 
 ### HAPPY ANALYZING!!!!
