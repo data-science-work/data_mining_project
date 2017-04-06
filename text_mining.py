@@ -30,7 +30,6 @@ for topics in words:
     # GET Request to Gigablast
     reqst = requests.get(base_url, params=my_params)
     resp = reqst.text
-    # print(resp)
 
     # Parsing XML from Gigablast object
     xml = BeautifulSoup(resp, 'html.parser')
