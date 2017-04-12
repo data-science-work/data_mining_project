@@ -14,7 +14,7 @@
 
 ### What it does?
 
-The application searches the Gigablast search engine based on search terms from a `csv` file. After the search is performed, the app creates `txt` files to allow them to be imported for data mining analysis.
+The application search the Internet utilizing the Gigablast search engine with terms that the user types to a `csv` file located at the root of the application. After the search is performed, the application creates `txt` files that can be imported to any platform for data mining analysis.
 
 ### What you need to run the app?
 
@@ -26,14 +26,10 @@ Once you have Python3 install in your computer, and Python3 is in your global en
 
 `$ git clone https://github.com/diazgilberto/data_mining_project.git`
 
-After cloning the repo, open your terminal, `cd` to `data_mining_project`, and open the `query.csv`. Modify the file with the terms you want to search, save and close the file. On your terminal run the following command...
+After cloning the repo, open your terminal, `cd` to `data_mining_project`, and open the `query.csv`. Modify the file with the terms and/or keywords you want to search, save and close the file. On your terminal run the following command...
 
-`python3 text_mining.py`
+`python3 text_mining.py` or `python text_mining.py`
 
-or
-
-`python text_mining.py`
-
-it depends on how you setup python3 in your global environment. Shortly after you start running the app, you will see status messages in the terminal. You will also notice that new `.txt` files are getting created in the root of `data_mining_project`. After the search is finished, your files a ready to performed data mining analysis.
+it depends on how you setup python3 in your global environment. Shortly after you start the app, you will see status messages in the terminal. You will also notice that new `.txt` files are getting created in the root of `data_mining_project`. After the process is finished, your files a ready to performed data mining analysis.
 
 ### HAPPY ANALYZING!!!!
