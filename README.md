@@ -18,7 +18,7 @@ The application searches the Gigablast search engine based on search terms from 
 
 ### What you need to run the app?
 
-In order to run the app you need to create a Gigablast account. You can do so at [Gigablast](http://gigablast.com/). It is a $5.oo fee. Gigablast charges $0.99 per 1000 queries. After you create the account, you need to set your `userid` and your `code` in the `my_params` variable inside `text_mining.py`. You will also need Python3 installed in your computer. You can visit the [Python](https://www.python.org/) website for instructions on how to install Python.
+In order to run the app you need to create a Gigablast account. You can do so at [Gigablast](http://gigablast.com/, "Gigablast's Home Page"). It is a $5.oo fee. Gigablast charges $0.99 per 1000 queries. After you create the account, you need to set your `userid` and your `code` in the `my_params` variable inside `text_mining.py`. You will also need Python3 installed in your computer. You can visit the [Python](https://www.python.org/ "Python Home Page") website for instructions on how to install Python.
 
 ### Instructions for how to setup running environment.
 
