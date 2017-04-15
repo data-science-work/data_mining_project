@@ -14,6 +14,7 @@ import re
 
 
 def main():
+
     # Reading File
     file_csv = open('query.csv', 'r')
     words = file_csv.read().splitlines()
