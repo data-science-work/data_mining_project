@@ -10,8 +10,6 @@
 <!-- /MarkdownTOC -->
 
 
-
-
 ### What does it do?
 
 The application search the Internet utilizing the Gigablast search engine with terms that the user types to a `csv` file located at the root of the application. After the search is performed, the application creates `txt` files that can be imported to any platform for data mining analysis.
