@@ -14,7 +14,6 @@ import re
 
 
 def main():
-
     # Reading File
     file_csv = open('query.csv', 'r')
     words = file_csv.read().splitlines()
@@ -25,8 +24,8 @@ def main():
     # Building Gigablast Paramaters
     for topics in words:
         term = topics.replace(',', ' ')
-        my_params = {'userid': '', 'code': '', 'format': 'xml',
-                     'q': term, 'n': '3', 'dr': '1', 'filetype': 'html',
+        my_params = {'userid': '113', 'code': '359492133', 'format': 'xml',
+                     'q': term, 'n': '10', 'dr': '1', 'filetype': 'html',
                      'pss': '10', 'ddu': '1', 'sortby': '0', 'qlang': 'en'}
 
         # GET Request to Gigablast
@@ -36,7 +35,7 @@ def main():
         # Parsing XML from Gigablast object
         xml = BeautifulSoup(resp, 'html.parser')
 
-        # Cleaning URL's
+        # Get URL's
         urls = xml.find_all('url')
 
         # Creating URL's list
@@ -57,6 +56,8 @@ def main():
                     clean_urls.append('http://' + link)
             except requests.exceptions.Timeout:
                 print('TIMEOUT ERROR: Web page has not respond in 5 seconds.')
+            except requests.exceptions.ConnectionError:
+                print('CONNECTION ERROR: Max retries to connect exceeded with URL')
 
         # Fetching web pages from clean_urls. Saving top 10
         count = 1
