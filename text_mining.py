@@ -24,7 +24,7 @@ def main():
     # Building Gigablast Paramaters
     for topics in words:
         term = topics.replace(',', ' ')
-        my_params = {'userid': '113', 'code': '359492133', 'format': 'xml',
+        my_params = {'userid': '', 'code': '', 'format': 'xml',
                      'q': term, 'n': '10', 'dr': '1', 'filetype': 'html',
                      'pss': '10', 'ddu': '1', 'sortby': '0', 'qlang': 'en'}
 
